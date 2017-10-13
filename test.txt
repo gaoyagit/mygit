@@ -1,0 +1,10 @@
+/// <summary>
+        /// 指定点位以指定速度指定角度与指定折线碰撞所需时间（暂不考虑侧刮，也不考虑多段线折叠相交）
+        /// </summary>
+        /// <param name="vPLat"></param>
+        /// <param name="vPLon"></param>
+        /// <param name="vHeading"></param>
+        /// <param name="vSpeed"></param>
+        /// <param name="vPoints">折线的节点</param>
+        /// <param name="vLengthConvert"></param>
+        /// <returns></returns>
